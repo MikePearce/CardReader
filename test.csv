@@ -1,0 +1,7 @@
+start, end, date, type, number, start_info, end_info
+new york, cannes, 27.03.2010, bus, X10, Pickup some twinkies, Don't forget to tip the driver!
+cairo, berlin, 27.03.2010, train, 18:34, Buffet car inclusive
+cannes, cairo, 27.03.2010, bus, 227, 
+berlin, moscow, 28.03.2010, train, 08:00, First class
+geneva, sydney, 28.03.2010, plane, XR678, Gate 45, Your baggage will transferred from your last leg.
+moscow, geneva, 28.03.2010, boat, Pugwash, ,Don't forget seasick pills
