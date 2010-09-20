@@ -13,8 +13,8 @@ So, the code is fairly well documented. Without a deadline it would probably
 be a little more verbose.
 
 As far as extending it goes, you can see where you 
-can create extra data input classes in the \Models\Data. The Csv class is give
-as an example, but this could be extended to databases, rss feeds etc.
+can create extra data input classes in the \Models\Data. The Csv class is
+given as an example, but this could be extended to databases, rss feeds etc.
 
 You can also extend the decorators for the import fields. The only one I've 
 done uppercases and removes spaces from destination names to make it easier to
@@ -32,8 +32,8 @@ Finally, the output can be extended to more than just text, it could be XML,
 CSV, JSON, 3rd party APIs whatever is needed.
 
 -- Tests --
-Yes, there are't any. Usually I would mockup a few tests and write the actual
-application with some injection helpers (you can see some stuff on 
+Yes, there are't any. Sorry. Usually I would mockup a few tests and write the
+actual application with some injection helpers (you can see some stuff on 
 http://github.com/MikePearce/Data-Reader (tests and injections)). The first 
 point on the 'Things we look at list' is how I think when faced with a sharp
 deadline and a complex problem.
